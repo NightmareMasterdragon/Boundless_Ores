@@ -23,14 +23,14 @@ side = "BOTH"
 [[dependencies.boundless_ores]]
 modId = "minecraft"
 type = "required"
-versionRange = "[1.21.11,)"
+versionRange = "[1.21,1.22)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.boundless_ores]]
 modId = "architectury"
 type = "required"
-versionRange = "[19.0.1,)"
+versionRange = "[13.0.8,)"
 ordering = "AFTER"
 side = "BOTH"
 
