@@ -6,7 +6,7 @@ import net.neoforged.fml.common.Mod;
 @Mod(Boundless_ores.MOD_ID)
 public final class Boundless_oresNeoForge {
     public Boundless_oresNeoForge() {
-        // Run our common setup.
+    
         Boundless_ores.init();
     }
 }
